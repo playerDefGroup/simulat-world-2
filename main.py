@@ -1,6 +1,4 @@
-#-=NOTE=- This game is made by playerDefGroup
 
-#Alpha, please don't leak my hard work.
 from os import system
 from time import sleep
 import json
